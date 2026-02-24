@@ -1,6 +1,6 @@
 # ignores the files with this extension to track 
 *.css
 #ignores the file to track
-app.js
+
 
 password/
